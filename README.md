@@ -8,3 +8,4 @@ básicas de CRUD, navegación, e interfaz gráfica.
 - En esta aplicación web se cuenta con las siguienets funcionalidades principales:
  - Gestion de contactos
  - Creación y administración de eventos
+  - sdfdf
