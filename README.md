@@ -1,5 +1,5 @@
 # Diario Personal ASP.NET, patrón MVC
-## Diego Hiriart & Luis Corales
+## [Diego Hiriart](https://github.com/Diego-Hiriart) & [Luis Corales](https://github.com/LuisCorales)
 ### ISWZ2103-01 Programación IV
  
 - Este proyecto es un agenda personal, hecha en ASP.NET y siguiendo un patrón de diseño MVC.
